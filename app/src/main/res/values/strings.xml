@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="Home">Home</string>
+    <string name="Recommended">Recommended</string>
+    <string name="Movies">Movies</string>
+    <string name="TVSHOWS">TVSHOWS</string>
+    <string name="Upcoming">Upcoming</string>
+</resources>
