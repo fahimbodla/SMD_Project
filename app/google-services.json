@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "73507754426",
+    "firebase_url": "https://imdb-b24a0.firebaseio.com",
+    "project_id": "imdb-b24a0",
+    "storage_bucket": "imdb-b24a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73507754426:android:9e2f3739ee348364b14d83",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73507754426-qm25oclghkst7e52c113b5nk98euot4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA315oLkjBa-aGGgnXIa-qiDEh0cgC6OKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73507754426-qm25oclghkst7e52c113b5nk98euot4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
